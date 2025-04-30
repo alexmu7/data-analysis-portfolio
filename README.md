@@ -47,7 +47,7 @@ A dashboard to track electronics repair workflows, including customer devices, e
 
 
 ### Education
-Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, 2016 - 2021
+Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, Dec 2021
 
 ### Certificates
 Google Data Analytics Professional Certificate (Sep 2025) (Coursera - Google)
