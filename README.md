@@ -7,7 +7,7 @@ In my free time, I enjoy exploring new tools and techniques in data analysis, an
 
 [My CV in pdf](path/to/your-cv.pdf)
 
-This is a repository to showcase my skills, share projects, and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase my skills, share projects, and track my progress in Data Analytics related topics.
 
 # Table of Contents
 
