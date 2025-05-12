@@ -12,45 +12,54 @@ This is a repository to showcase my skills, share projects, and track my progres
 # Table of Contents
 
 - About
+
 - Portfolio Projects
-  - Power BI
-    - Electronics Repair Dashboard
-  - SQL
-    - COVID 19 Data Exploration
-    - Nashville Housing Data Cleaning
   - Python
-    - Analyzing the Factors Contributing to the Success of a Movie
-    - Tech Store Sales Analysis
+    - 
+    -
+    -
+  - SQL
+    - Database design project
+    - 
+  - Powerbi
+    - 
+  Tableau
+    -
+
+-Education
+
+-Certificate
+
+-Contact
 
 # Portfolio Projects
 
 ## Python
 
-### Analyzing the Factors Contributing to the Success of a Movie
-Used Python to analyze movie data, identifying factors like budget, genre, and runtime that contribute to a movie’s success. Includes data cleaning, statistical analysis, and visualizations. Find the code in the `Python/movie_success/` folder.
+  ###
 
-### Tech Store Sales Analysis
-Analyzed sales data from a tech store to identify top products, sales trends, and customer patterns. Used Python for data wrangling and visualization. Code and outputs are in the `Python/tech_sales/` folder.
+
 
 ## SQL
 
-### COVID 19 Data Exploration
-Explored COVID-19 data to analyze infection rates, mortality, and vaccination trends. Includes SQL scripts to query and aggregate data. Check the `SQL/covid19/` folder for scripts and results.
+  ###
 
-### Nashville Housing Data Cleaning
-Cleaned and standardized a housing dataset from Nashville using SQL. The scripts handle missing values, duplicates, and format inconsistencies. See the `SQL/nashville_housing/` folder for details.
 
 ## Power BI
+### Visualization 
+  
 
-### Electronics Repair Dashboard
-A dashboard to track electronics repair workflows, including customer devices, employee assignments, and repair statuses. Built using Power BI, this project visualizes data from an ER diagram with entities like Customers, Employees, and Repairs. The project is saved in PBIP format, which includes the semantic model (data structure and DAX calculations) and report file (visualizations and layout). Both files are included in the `PowerBI/` folder to ensure the report functions correctly. Screenshots of the dashboard are available in the `PowerBI/screenshots/` folder.
+## Tableau Public Profile Link
+Link to my Tableau data visualization homepage: https://public.tableau.com/app/profile/alex.mu1196/vizzes
 
+Includes visualizations made from Tableau courses as well as visualization projects
 
 ### Education
 Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, Dec 2021
 
 ### Certificates
-Google Data Analytics Professional Certificate (Sep 2025) (Coursera - Google)
+Google Data Analytics Professional Certificate (Apr 2025) (Coursera - Google)
+Tableau (On-going) (Coursera - University of California, Davis)
 
 
 ### Contacts
