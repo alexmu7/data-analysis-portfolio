@@ -36,17 +36,18 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 ## Python
 
-  ###
+
 
 
 
 ## SQL
 
-  ###
+
 
 
 ## Power BI
-### Visualization 
+
+Visualization 
   
 
 ## Tableau Public Profile Link
