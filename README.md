@@ -74,14 +74,14 @@ Includes visualizations made from Tableau courses as well as visualization proje
 
 
 
-### Education
+## Education
 Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, Dec 2021
 
-### Certificates
+## Certificates
 Google Data Analytics Professional Certificate (Apr 2025) (Coursera - Google)
 Tableau (On-going) (Coursera - University of California, Davis)
 
 
-### Contacts
+## Contacts
 LinkedIn: @alexmu <br>
 Email: mu.alex.rm@gmail.com
