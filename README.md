@@ -44,7 +44,7 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 ## SQL
 
-## University Electronic Repair Database
+### University Electronic Repair Database
 
 **Code:** Data Cleaning Project Queries: Nashville Housing.sql
 
@@ -54,17 +54,25 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 **Technology:** SQL Server
 
+## Data Visualization
 
-
-## Power BI
-
-Visualization ??????
-  
-
-## Tableau Public Profile Link
+### Tableau Public Profile Link
 Link to my Tableau data visualization homepage: https://public.tableau.com/app/profile/alex.mu1196/vizzes
 
 Includes visualizations made from Tableau courses as well as visualization projects
+
+
+### Power BI
+
+**Code:** Data Cleaning Project Queries: Nashville Housing.sql
+
+**Description:** We aimed to create a service management database for the Information Technology Desk at the Penn State University. This database will be an efficient system to track all electronic equipment repairs entered through the ITS Desk in the university library and other service locations across campus. This system will track many aspects of the service, including tracking employee projects, device repair information, customer-employee interactions, and third party vendor contracts.
+
+**Skills:** Data Visualization, Dashboard design, Discrete and Continuous Graphs
+
+**Technology:** PowerBI Desktop
+
+
 
 ### Education
 Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, Dec 2021
