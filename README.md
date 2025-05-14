@@ -66,7 +66,7 @@ Includes visualizations made from Tableau courses as well as visualization proje
 
 **Code:** Data Cleaning Project Queries: Nashville Housing.sql
 
-**Description:** We aimed to create a service management database for the Information Technology Desk at the Penn State University. This database will be an efficient system to track all electronic equipment repairs entered through the ITS Desk in the university library and other service locations across campus. This system will track many aspects of the service, including tracking employee projects, device repair information, customer-employee interactions, and third party vendor contracts.
+**Description:** The PowerBI project focused on displaying the information related to 
 
 **Skills:** Data Visualization, Dashboard design, Discrete and Continuous Graphs
 
