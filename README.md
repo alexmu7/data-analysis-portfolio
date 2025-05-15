@@ -54,6 +54,17 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 **Technology:** SQL Server
 
+### Second SQL Project
+
+**Code:** Data Cleaning Project Queries: Nashville Housing.sql
+
+**Description:** We aimed to create a service management database for the Information Technology Desk at the Penn State University. This database will be an efficient system to track all electronic equipment repairs entered through the ITS Desk in the university library and other service locations across campus. This system will track many aspects of the service, including tracking employee projects, device repair information, customer-employee interactions, and third party vendor contracts.
+
+**Skills:** SQL Language: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** SQL Server
+
+
 ## Data Visualization
 
 ### Tableau Public Profile Link
@@ -64,14 +75,13 @@ Includes visualizations made from Tableau courses as well as visualization proje
 
 ### Power BI
 
-**Code:** Data Cleaning Project Queries: Nashville Housing.sql
+**Code:** Put file here ?????
 
 **Description:** The PowerBI project focused on displaying the information related to 
 
 **Skills:** Data Visualization, Dashboard design, Discrete and Continuous Graphs
 
 **Technology:** PowerBI Desktop
-
 
 
 ## Education
