@@ -4,17 +4,17 @@
 
 -About
 
--Portfolio Projects
-  -Python
+-Portfolio Projects <br>
+  -Python <br>
     -
     -
     -
-  -SQL
-    -Database design project
+  -SQL <br>
+    -Database design project <br>
     - 
-  -Powerbi
+  -PowerBI <br>
     - 
-  -Tableau
+  -Tableau <br>
     -
 
 -[Education](#education)
@@ -46,7 +46,7 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 ### University Electronic Repair Database
 
-**Code:** Data Cleaning Project Queries: Nashville Housing.sql
+**Code:** [University Library Database Design]()
 
 **Description:** We aimed to create a service management database for the Information Technology Desk at the Penn State University. This database will be an efficient system to track all electronic equipment repairs entered through the ITS Desk in the university library and other service locations across campus. This system will track many aspects of the service, including tracking employee projects, device repair information, customer-employee interactions, and third party vendor contracts.
 
@@ -75,7 +75,7 @@ Includes visualizations made from Tableau courses as well as visualization proje
 
 ### Power BI
 
-**Code:** Put file here ?????
+**Code:** [PowerBI Project File](Write Link here???)
 
 **Description:** Created Product Sales Analytics Dashboard, tracking 122K units, $22.23M revenue, and $68.04M profit as of May 18, 2025. Analyzed sales trends, noting mid-year decline and recovery, with YTD surpassing LYTD. Assessed revenue from TX ($28M) and CA ($26M), and segmented data, identifying Convenience as top category and VanArsdell as leading manufacturer.
 
