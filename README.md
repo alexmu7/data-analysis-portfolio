@@ -27,7 +27,7 @@
 
 Hi, I’m Alex! I’m passionate about data analytics and currently working on projects to build my skills in data science and visualization. With experience in Power BI, SQL, and Python, I aim to uncover meaningful insights from data and present them in a clear, actionable way. I’m eager to apply my technical and analytical skills as an entry-level data analyst.
 
-In my free time, I enjoy exploring new tools and techniques in data analysis, and I’m always looking for opportunities to learn and grow. I’m driven by the challenge of solving problems with data and the satisfaction of delivering valuable insights.
+During my leisure time, I love experimenting with new data analysis tools and techniques, and I’m constantly seeking chances to expand my knowledge and skills. I’m motivated by the excitement of tackling data-related challenges and the fulfillment of providing meaningful insights.
 
 [My CV in pdf](path/to/your-cv.pdf)
 
