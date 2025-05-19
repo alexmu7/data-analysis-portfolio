@@ -77,7 +77,7 @@ Includes visualizations made from Tableau courses as well as visualization proje
 
 **Code:** Put file here ?????
 
-**Description:** The PowerBI project focused on displaying the information related to 
+**Description:** Created Product Sales Analytics Dashboard, tracking 122K units, $22.23M revenue, and $68.04M profit as of May 18, 2025. Analyzed sales trends, noting mid-year decline and recovery, with YTD surpassing LYTD. Assessed revenue from TX ($28M) and CA ($26M), and segmented data, identifying Convenience as top category and VanArsdell as leading manufacturer.
 
 **Skills:** Data Visualization, Dashboard design, Discrete and Continuous Graphs
 
