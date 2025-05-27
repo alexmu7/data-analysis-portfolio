@@ -38,8 +38,13 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 ## Python
 
+**Code:** [Bank Marketing Data Cleaning]()
 
+**Description:** In this project, I am aiming to perform data cleaning upon recent marketing campaign. The bank intends to conduct additional campaigns moving forward and needs to comform data to their defined structure and data types. This will enable them to use the cleaned data I prepare to build a PostgreSQL database, which will store the current campaign’s data and facilitate seamless integration of data from future campaigns.
 
+**Skills:** Data cleaning, Data manipulation
+
+**Technology:** Python Panda library
 
 
 ## SQL
