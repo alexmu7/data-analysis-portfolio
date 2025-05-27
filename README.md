@@ -2,7 +2,7 @@
 
 # Table of Contents
 
--About
+[About](#about)
 
 -Portfolio Projects <br>
   -Python <br>
@@ -17,11 +17,11 @@
   -Tableau <br>
     -
 
--[Education](#education)
+[Education](#education)
 
--[Certificates](#certificates)
+[Certificates](#certificates)
 
--[Contact](#contacts)
+[Contact](#contacts)
 
 # About
 
