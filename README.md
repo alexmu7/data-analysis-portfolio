@@ -4,18 +4,20 @@
 
 [About](#about)
 
--Portfolio Projects <br>
-  -Python <br>
-    -
-    -
-    -
-  -SQL <br>
-    -[Database design project](#university electronic repair database) <br>
-    - 
-  -PowerBI <br>
-    - 
-  -Tableau <br>
-    -
+[Portfolio Projects](#portfolio-projects) <br>
+
+  - [Python](#python) <br>
+    - <br>
+
+  - [SQL](#sql) <br>
+    - Database design project <br>
+    - Student Score Analysis <br>
+
+  - [PowerBI](#power-bi) <br>
+    - Financial Dashboard <br>
+
+  - [Tableau](#tableau-profile) <br>
+    - Tableau Portfolio <br>
 
 [Education](#education)
 
@@ -73,15 +75,17 @@ This repository highlights my skills, showcases data analytics projects, and doc
 **Technology:** SQL Server
 
 
-## Data Visualization
+# Data Visualization
 
-### Tableau Public Profile Link
+### Tableau Profile
 Link to my Tableau data visualization homepage: https://public.tableau.com/app/profile/alex.mu1196/vizzes
 
 This is a profile to showcase visualizations made from Tableau courses as well as my own visualization projects
 
 
-### Power BI
+# Power BI
+
+### Financial Dashboard
 
 **Code:** [PowerBI Project File]()
 
