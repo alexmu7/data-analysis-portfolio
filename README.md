@@ -7,7 +7,7 @@
 [Portfolio Projects](#portfolio-projects) <br>
 
   - [Python](#python) <br>
-    - <br>
+    - Bank Marketing Data Cleaning <br>
 
   - [SQL](#sql) <br>
     - Database design project <br>
