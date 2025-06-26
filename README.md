@@ -31,8 +31,6 @@ Hello, I'm Alex. I'm passionate about data analytics and actively working on pro
 
 During my leisure time, I love experimenting with new data analysis tools and techniques, and I’m constantly seeking chances to expand my knowledge and skills. I’m motivated by the excitement of tackling data-related challenges and the fulfillment of providing meaningful insights.
 
-[My CV in pdf](path/to/your-cv.pdf)
-
 This repository highlights my skills, showcases data analytics projects, and documents my ongoing learning and progress in the field.In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 
@@ -56,7 +54,7 @@ This repository highlights my skills, showcases data analytics projects, and doc
 
 ### University Electronic Repair Database
 
-**Code:** [University Library Database Design]()
+**Code:** [University Library Database Design](https://github.com/alexmu7/project-files/blob/main/databasedesign.sql)
 
 **Description:** We aimed to create a service management database for the Information Technology Desk at the Penn State University. This database will be an efficient system to track all electronic equipment repairs entered through the ITS Desk in the university library and other service locations across campus. This system will track many aspects of the service, including tracking employee projects, device repair information, customer-employee interactions, and third party vendor contracts.
 
@@ -66,7 +64,7 @@ This repository highlights my skills, showcases data analytics projects, and doc
 
 ### Student Score Performance
 
-**Code:** [Student Score Analysis]()
+**Code:** [Student Score Analysis](https://github.com/alexmu7/project-files/blob/main/StudentPerformanceSQLProject.ipynb)
 
 **Description:** We aimed to create a service management database for the Information Technology Desk at the Penn State University. This database will be an efficient system to track all electronic equipment repairs entered through the ITS Desk in the university library and other service locations across campus. This system will track many aspects of the service, including tracking employee projects, device repair information, customer-employee interactions, and third party vendor contracts.
 
@@ -87,7 +85,7 @@ This is a profile to showcase visualizations made from Tableau courses as well a
 
 ### Financial Dashboard
 
-**Code:** [PowerBI Project File]()
+**Code:** [PowerBI Project File](https://github.com/alexmu7/project-files/blob/main/Financial_Dashboard.pbix)
 
 **Description:** Created and launched a comprehensive financial dashboard to track key performance metrics, including sales, profit, and unit volumes. The dashboard helped pinpoint top-performing products, business segments, and geographic regions, while also revealing how discounting trends impacted revenue. This project played a key role in identifying growth opportunities in weaker areas and supported data-driven decision-making across the business.
 
