@@ -97,7 +97,7 @@ This is a profile to showcase visualizations made from Tableau courses as well a
 
 
 ## Education
-Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, Dec 2021
+Pennsylvania State University, University Park: Bachelor's degree, Information Science and Technology, Dec 2021 <br>
     -Relevant Coursework: Data structures and algorithms, Mathematical Statistics, Database Systems with SQL, Data Modeling with R, Business Integration and ERP software 
     -Dean's List, Spring 2021
     
